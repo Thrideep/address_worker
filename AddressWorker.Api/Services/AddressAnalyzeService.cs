@@ -190,13 +190,13 @@ namespace AddressWorker.Api.Services
             return result;
         }
 
-        private async Task<TouchAnalysisResult> GetGeoIpDataAsync(string address)
-        {
-            GeoIpWorker geoIpWorker = new($"{_apiOptions.GeoIpApiUrl}/api/analyze/{address}");
-            GeoIpAnalysisResult result = await geoIpWorker.FetchDataAsync();
-            //todo: return exceptions/errors to the client.
-            return result;
-        }
+        //private async Task<TouchAnalysisResult> GetGeoIpDataAsync(string address)
+        //{
+        //    GeoIpWorker geoIpWorker = new($"{_apiOptions.GeoIpApiUrl}/api/analyze/{address}");
+        //    GeoIpAnalysisResult result = await geoIpWorker.FetchDataAsync();
+        //    //todo: return exceptions/errors to the client.
+        //    return result;
+        //}
 
     }
 
