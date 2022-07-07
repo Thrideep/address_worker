@@ -1,0 +1,12 @@
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\bin\Debug\net5.0\Api.Abstractions.deps.json
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\bin\Debug\net5.0\Api.Abstractions.dll
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\bin\Debug\net5.0\ref\Api.Abstractions.dll
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\bin\Debug\net5.0\Api.Abstractions.pdb
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\Api.Abstractions.csproj.AssemblyReference.cache
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\Api.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\Api.Abstractions.AssemblyInfoInputs.cache
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\Api.Abstractions.AssemblyInfo.cs
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\Api.Abstractions.csproj.CoreCompileInputs.cache
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\Api.Abstractions.dll
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\ref\Api.Abstractions.dll
+D:\Thrideep\.net_5\Swimlane_sample\address-worker\Api.Abstractions\obj\Debug\net5.0\Api.Abstractions.pdb

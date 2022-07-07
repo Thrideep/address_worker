@@ -1,0 +1,44 @@
+version: '3.3'
+
+services:
+  rdap-api:
+    build:
+      context: ./
+      dockerfile: AddressWorker.Rdap.Api/Dockerfile
+    ports:
+     - "5400:80"
+
+  geoip-api:
+    build:
+      context: ./
+      dockerfile: AddressWorker.GeoIp.Api/Dockerfile
+    ports:
+     - "5401:80"
+
+  reversedns-api:
+    build:
+      context: ./
+      dockerfile: AddressWorker.ReverseDns.Api/Dockerfile
+    ports:
+     - "5402:80"
+
+  ping-api:
+    build:
+      context: ./
+      dockerfile: AddressWorker.Ping.Api/Dockerfile
+    ports:
+     - "5403:80"
+
+  virustotal-api:
+    build:
+      context: ./
+      dockerfile: AddressWorker.VirusTotal.Api/Dockerfile
+    ports:
+     - "5404:80"
+
+  touch-api:
+    build:
+      context: ./
+      dockerfile: AddressWorker.VirusTotal.Api/Dockerfile
+    ports:
+     - "5405:80"
